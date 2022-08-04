@@ -4,16 +4,22 @@ Login básico con FirebaseAuth
 
 Inicio de sesión con:
 
-- Facebook
+
 - Google
-- Twitter
+
 - Correo y contraseña
 
 <div>
-<img src="https://user-images.githubusercontent.com/68215023/177451805-0de91b21-cce0-4338-a61b-48e353f921ae.jpg" width="200px"</img>
-<img src="https://user-images.githubusercontent.com/68215023/177453947-3d86d650-023f-49be-a973-1219fa5403ce.jpg" width="200px"</img>
-<img src="https://user-images.githubusercontent.com/68215023/177454064-b02d3cdd-9dbb-4cf4-a54b-a37635cc5ef1.jpg" width="200px"</img>
-<img src="https://user-images.githubusercontent.com/68215023/177454070-779d90b5-fb6e-4e3f-9e1e-e53689b44375.jpg" width="200px"</img>
+<img src="https://user-images.githubusercontent.com/68215023/182737292-be8ec9ff-e0b7-4c31-b9d7-264971bc8e15.jpg" width="200px"</img>
+  
+  
+<img src="https://user-images.githubusercontent.com/68215023/182737295-316549ad-54c8-4957-adcb-054b762ad20f.jpg" width="200px"</img>
+  
+  - Twitter
+<img src="https://user-images.githubusercontent.com/68215023/182737297-ea145bd5-1902-4c47-8cc8-96bd3f5d336b.jpg" width="200px"</img>
+  
+  - Facebook
+<img src="https://user-images.githubusercontent.com/68215023/182737298-70684563-dacb-4b72-98fa-a07282cc0da8.jpg" width="200px"</img>
 </div>
 
 
