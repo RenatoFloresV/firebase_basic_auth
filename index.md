@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/RenatoFloresV/firebase_basic_auth/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RenatoFloresV/firebase_basic_auth/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Screenshot_2022-08-03-19-10-49-687_com example firebase_basic_auth](https://user-images.githubusercontent.com/68215023/182737292-be8ec9ff-e0b7-4c31-b9d7-264971bc8e15.jpg)
+![Screenshot_2022-08-03-19-10-56-293_com example firebase_basic_auth](https://user-images.githubusercontent.com/68215023/182737295-316549ad-54c8-4957-adcb-054b762ad20f.jpg)
+![Screenshot_2022-08-03-19-14-49-080_com android chrome](https://user-images.githubusercontent.com/68215023/182737297-ea145bd5-1902-4c47-8cc8-96bd3f5d336b.jpg)
+![Screenshot_2022-08-03-19-14-57-880_com facebook katana](https://user-images.githubusercontent.com/68215023/182737298-70684563-dacb-4b72-98fa-a07282cc0da8.jpg)
